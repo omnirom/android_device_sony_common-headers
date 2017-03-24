@@ -12,5 +12,5 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-PRODUCT_VENDOR_KERNEL_HEADERS := device/sony/common-headers/kernel-headers
+PRODUCT_VENDOR_KERNEL_HEADERS := device/sony/common-headers-msm8996/kernel-headers
 
